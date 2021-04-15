@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Bard/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Bard/static/js/main.25136d5d.chunk.js",
+    "main.js.map": "/Bard/static/js/main.25136d5d.chunk.js.map",
+    "runtime-main.js": "/Bard/static/js/runtime-main.6d226f24.js",
+    "runtime-main.js.map": "/Bard/static/js/runtime-main.6d226f24.js.map",
+    "static/js/2.b8d024a1.chunk.js": "/Bard/static/js/2.b8d024a1.chunk.js",
+    "static/js/2.b8d024a1.chunk.js.map": "/Bard/static/js/2.b8d024a1.chunk.js.map",
+    "static/js/3.e2db0de6.chunk.js": "/Bard/static/js/3.e2db0de6.chunk.js",
+    "static/js/3.e2db0de6.chunk.js.map": "/Bard/static/js/3.e2db0de6.chunk.js.map",
+    "index.html": "/Bard/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Bard/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b8d024a1.chunk.js.LICENSE.txt": "/Bard/static/js/2.b8d024a1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Bard/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d226f24.js",
+    "static/js/2.b8d024a1.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.25136d5d.chunk.js"
+  ]
+}
